@@ -1,3 +1,12 @@
+
+# Bridge.React 3.1.8
+
+This repo is fork and downgrade of original repo from https://github.com/ProductiveRage/Bridge.React
+This version could be usefull for EleWise.ELMA 4 developers, where this version is actually used.
+
+Possibly especially for ELMA theres will be fixes in another branches or any usefull information.
+
+
 # Bridge.React
 Bindings for [Bridge.NET](http://bridge.net/) for React - write React applications in C#!
 
